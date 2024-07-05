@@ -1,5 +1,7 @@
 # Forked from https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated
 
+# Notes - updated defaults and removed deprecated FirebaseInstanceId usage in Java
+
 # Google Firebase Cloud Messaging Cordova Push Plugin
 > Extremely easy plug&play push notification plugin for Cordova applications with Google Firebase FCM.
 
